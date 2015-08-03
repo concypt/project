@@ -1,2 +1,2 @@
 1- Learn to make commits (done)
-2- Lear to ignore file 
+2- Lear to ignore file (done)
